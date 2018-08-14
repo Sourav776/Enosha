@@ -1,0 +1,75 @@
+
+body {font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}table {
+	font-size:inherit;
+	font:100%;
+	font-style: normal;
+}
+
+#upload{
+width:750px;
+border:0px;
+padding:10px;
+background:#FFFFFF
+}
+
+#td{
+width:250px
+}
+
+.ContentArea {
+    width:750px;
+	padding: 0px;
+	border: 0px solid #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background-color: #ffffff;
+	margin-bottom:5px;
+	-moz-border-radius: 10px;
+}
+
+.Layer8{
+	width:750px;
+    background-color: #ffffff;
+}
+
+.field {
+border-bottom:1px solid white;
+padding:2px 2px 2px 2px;
+color: red;
+background-color:#ffdfdf;
+}
+
+.field2 {
+border: 2px dotted orange;
+padding:2px 2px 2px 2px;
+background: url(error.jpg) left top repeat-x;
+font-family: Verdana, Arial, Sans-Serif;
+background-color:white;
+color: #000;
+}
+
+.field3 {
+/*border-bottom:1px dotted black;*/
+padding:2px 2px 2px 2px;
+color: black;
+background-color:#FFFFFF;
+}
+
+.field4 {
+border: 1px solid #DDDDDD;
+padding:2px 2px 2px 2px;
+background: url(error.jpg) left top repeat-x;
+background-color:white;
+color: #000;
+}
+
+.notice {
+        font-color: #000000;
+        font-size: 14px;
+}
+
+.text {
+        font-color: #000;
+        font-size: 14px;
+}
